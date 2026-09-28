@@ -3,7 +3,9 @@ stealin others intellectual property and decades of work
 
 todo:
   search for shi: https://fansubbers.miraheze.org/wiki/Main_Page
+  
   actually create symlinks instead of links
+  
   find more shi elsewhere
 
 temporarily add shi to not forget to add shi:
@@ -87,3 +89,5 @@ https://github.com/Seekladoom/TCAX-Karaoke-Effect-287-Templates
 https://github.com/Seekladoom/Seekladoom-ASS-Effect
 
 https://github.com/Seekladoom/Japanese-Anime-OPED-ASS-Template
+
+https://github.com/Seekladoom/Aegisub-Karaoke-Effect-1300-Templates
