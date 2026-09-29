@@ -2,11 +2,11 @@
 stealin others intellectual property and decades of work
 
 todo:
-  search for shi: https://fansubbers.miraheze.org/wiki/Main_Page
+ - search for shi: https://fansubbers.miraheze.org/wiki/Main_Page
   
-  actually create symlinks instead of links
+ - actually create symlinks instead of links
   
-  find more shi elsewhere
+ - find more shi elsewhere
 
 temporarily add shi to not forget to add shi:
 
