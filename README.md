@@ -1,5 +1,5 @@
 # aegisub-type-shi
-stealin others intellectual property and decades of work
+stealin others intellectual property and decades of work LO!
 
 todo:
  - search for shi: https://fansubbers.miraheze.org/wiki/Main_Page
